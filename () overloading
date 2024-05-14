@@ -17,7 +17,7 @@ cout<< latitude<<"\n ";
 }
 loc operator+ (loc op2);
 loc operator()( int i, int j);
-};
+}; 
 // overload () for loc
 loc loc::operator()(int i, int j)
 {
