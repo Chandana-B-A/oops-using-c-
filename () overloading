@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class loc
+class loc 
 {
 int longitude, latitude;
 public:
